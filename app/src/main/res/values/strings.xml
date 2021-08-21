@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoRestartOnBoot</string>
+    <string name="service_desc" />
+</resources>
